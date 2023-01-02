@@ -11,6 +11,8 @@
 
 - [Passwords](https://github.com/tarranprior/wordlists/blob/main/passwords)
 
+    - [BT4 Passwords](https://github.com/tarranprior/wordlists/blob/main/passwords/bt4-passwords.txt) - **1'652'902** total lines.
+
     - [Database Leaks](https://github.com/tarranprior/wordlists/blob/main/passwords/database_leaks)
     
         - [Ashley Madison (2015 Data Breach)](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/ashley_madison.txt) - **375`852** total lines.
