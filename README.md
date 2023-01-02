@@ -13,6 +13,6 @@
 
     - [Database Leaks](https://github.com/tarranprior/wordlists/blob/main/passwords/database_leaks)
     
-        - [Ashley Madison (2015 Data Breach)](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/ashley-madison.txt) - **375`852** total lines.
+        - [Ashley Madison (2015 Data Breach)](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/ashley_madison.txt) - **375`852** total lines.
         - [Hak5](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/hak5.txt) - **2`350** total lines.
         - [NordVPN](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/nordvpn.txt) - **1`436** total lines.
