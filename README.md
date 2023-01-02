@@ -15,13 +15,13 @@
 
     - **[200 Most Common Passwords (NordPass)](https://github.com/tarranprior/wordlists/blob/main/passwords/200-most-common-passwords/)**
 
-        - [200 Most Common Passwords (2019) [NordPass]](https://github.com/tarranprior/wordlists/blob/main/passwords/200-most-common-passwords/200-most-common-passwords-2019.txt) - **199** total lines.
-        - [200 Most Common Passwords (2020) [NordPass]](https://github.com/tarranprior/wordlists/blob/main/passwords/200-most-common-passwords/200-most-common-passwords-2020.txt) - **199** total lines.
-        - [200 Most Common Passwords (2021) [NordPass]](https://github.com/tarranprior/wordlists/blob/main/passwords/200-most-common-passwords/200-most-common-passwords-2021.txt) - **199** total lines.
-        - [200 Most Common Passwords (2022) [NordPass]](https://github.com/tarranprior/wordlists/blob/main/passwords/200-most-common-passwords/200-most-common-passwords-2022.txt) - **199** total lines.
+        - [200 Most Common Passwords (2019) [NordPass]](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/200-most-common-passwords/200-most-common-passwords-2019.txt) - **199** total lines.
+        - [200 Most Common Passwords (2020) [NordPass]](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/200-most-common-passwords/200-most-common-passwords-2020.txt) - **199** total lines.
+        - [200 Most Common Passwords (2021) [NordPass]](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/200-most-common-passwords/200-most-common-passwords-2021.txt) - **199** total lines.
+        - [200 Most Common Passwords (2022) [NordPass]](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/200-most-common-passwords/200-most-common-passwords-2022.txt) - **199** total lines.
 
     - **[Database Leaks](https://github.com/tarranprior/wordlists/blob/main/passwords/database_leaks)**
 
-        - [Ashley Madison (2015 Data Breach)](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/ashley_madison.txt) - **375`852** total lines.
-        - [Hak5](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/hak5.txt) - **2`350** total lines.
-        - [NordVPN](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database_leaks/nordvpn.txt) - **1`436** total lines.
+        - [Ashley Madison (2015 Data Breach)](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database-leaks/ashley_madison.txt) - **375`852** total lines.
+        - [Hak5](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database-leaks/hak5.txt) - **2`350** total lines.
+        - [NordVPN](https://raw.githubusercontent.com/tarranprior/Wordlists/main/passwords/database-leaks/nordvpn.txt) - **1`436** total lines.
